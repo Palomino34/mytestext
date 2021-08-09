@@ -1,0 +1,17 @@
+{
+    "name": "mytestext",
+    "version": "0.0.0",
+    "description": "",
+    "dependencies": {
+        "brainpadpulse": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "additionalFilePaths": []
+}
